@@ -1,0 +1,1211 @@
+{
+  "type": "FeatureCollection",
+  "name": "Maldives_Key_Islands_WGS84",
+  "attribution": "Maldives Geomatics Department & OneMap. Ministry of Tourism Registered Facilities Directory.",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "isl-maafushi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4926,
+          3.9412
+        ]
+      },
+      "properties": {
+        "id": "isl-maafushi",
+        "slug": "maafushi",
+        "name_en": "Maafushi",
+        "name_zh": "马富士岛",
+        "atoll_code": "K",
+        "atoll_id": "atoll-kaafu",
+        "atoll_name": "Kaafu Atoll (South Malé Atoll)",
+        "is_featured": true,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 65,
+        "hotel_count": 3,
+        "resort_count": 0,
+        "transfer_summary_en": "30 min scheduled speedboat from Velana Airport (MLE)",
+        "transfer_summary_zh": "距维拉纳国际机场（MLE）30分钟直达快艇"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-male",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5093,
+          4.1755
+        ]
+      },
+      "properties": {
+        "id": "isl-male",
+        "slug": "male",
+        "name_en": "Malé Capital",
+        "name_zh": "马累首都岛",
+        "atoll_code": "K",
+        "atoll_id": "atoll-kaafu",
+        "atoll_name": "Kaafu Atoll (North Malé Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "capital",
+        "guesthouse_count": 42,
+        "hotel_count": 8,
+        "resort_count": 0,
+        "transfer_summary_en": "10 min bridge/ferry from Velana Airport (MLE)",
+        "transfer_summary_zh": "跨海大桥连接机场，车程10分钟"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-hulhumale",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5417,
+          4.2133
+        ]
+      },
+      "properties": {
+        "id": "isl-hulhumale",
+        "slug": "hulhumale",
+        "name_en": "Hulhumalé",
+        "name_zh": "胡鲁马累",
+        "atoll_code": "K",
+        "atoll_id": "atoll-kaafu",
+        "atoll_name": "Kaafu Atoll (North Malé Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "urban_transit",
+        "guesthouse_count": 95,
+        "hotel_count": 5,
+        "resort_count": 0,
+        "transfer_summary_en": "15 min taxi from Velana Airport (MLE)",
+        "transfer_summary_zh": "机场公路连接，出租车15分钟"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-airport-mle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5292,
+          4.1918
+        ]
+      },
+      "properties": {
+        "id": "isl-airport-mle",
+        "slug": "velana-airport",
+        "name_en": "Velana International Airport (Hulhulé)",
+        "name_zh": "维拉纳国际机场（胡鲁勒）",
+        "atoll_code": "K",
+        "atoll_id": "atoll-kaafu",
+        "atoll_name": "Kaafu Atoll",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "airport",
+        "guesthouse_count": 0,
+        "hotel_count": 1,
+        "resort_count": 0,
+        "transfer_summary_en": "Primary International Gateway to the Maldives",
+        "transfer_summary_zh": "马尔代夫主国际航空枢纽"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-gulhi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5083,
+          3.9889
+        ]
+      },
+      "properties": {
+        "id": "isl-gulhi",
+        "slug": "gulhi",
+        "name_en": "Gulhi",
+        "name_zh": "古丽岛",
+        "atoll_code": "K",
+        "atoll_id": "atoll-kaafu",
+        "atoll_name": "Kaafu Atoll (South Malé Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 18,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "25 min speedboat from Velana Airport",
+        "transfer_summary_zh": "距机场25分钟快艇"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-guraidhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4667,
+          3.9006
+        ]
+      },
+      "properties": {
+        "id": "isl-guraidhoo",
+        "slug": "guraidhoo",
+        "name_en": "Guraidhoo",
+        "name_zh": "古莱杜岛",
+        "atoll_code": "K",
+        "atoll_id": "atoll-kaafu",
+        "atoll_name": "Kaafu Atoll (South Malé Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 22,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "35 min speedboat from Velana Airport",
+        "transfer_summary_zh": "距机场35分钟快艇"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-thulusdhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6508,
+          4.3736
+        ]
+      },
+      "properties": {
+        "id": "isl-thulusdhoo",
+        "slug": "thulusdhoo",
+        "name_en": "Thulusdhoo",
+        "name_zh": "图卢斯杜岛",
+        "atoll_code": "K",
+        "atoll_id": "atoll-kaafu",
+        "atoll_name": "Kaafu Atoll (North Malé Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 38,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "30 min speedboat from Velana Airport (Cokes surf break)",
+        "transfer_summary_zh": "距机场30分钟快艇，知名冲浪点"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-dhiffushi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7139,
+          4.4417
+        ]
+      },
+      "properties": {
+        "id": "isl-dhiffushi",
+        "slug": "dhiffushi",
+        "name_en": "Dhiffushi",
+        "name_zh": "迪夫希岛",
+        "atoll_code": "K",
+        "atoll_id": "atoll-kaafu",
+        "atoll_name": "Kaafu Atoll (North Malé Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 26,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "45 min speedboat from Velana Airport",
+        "transfer_summary_zh": "距机场45分钟快艇"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-huraa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6,
+          4.3333
+        ]
+      },
+      "properties": {
+        "id": "isl-huraa",
+        "slug": "huraa",
+        "name_en": "Huraa",
+        "name_zh": "胡拉岛",
+        "atoll_code": "K",
+        "atoll_id": "atoll-kaafu",
+        "atoll_name": "Kaafu Atoll (North Malé Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 16,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "25 min speedboat from Velana Airport",
+        "transfer_summary_zh": "距机场25分钟快艇"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-himmafushi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5714,
+          4.3106
+        ]
+      },
+      "properties": {
+        "id": "isl-himmafushi",
+        "slug": "himmafushi",
+        "name_en": "Himmafushi",
+        "name_zh": "希玛富士岛",
+        "atoll_code": "K",
+        "atoll_id": "atoll-kaafu",
+        "atoll_name": "Kaafu Atoll (North Malé Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 15,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "20 min speedboat from Velana Airport (Jailbreaks surf)",
+        "transfer_summary_zh": "距机场20分钟快艇"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-dhigurah",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.925,
+          3.5306
+        ]
+      },
+      "properties": {
+        "id": "isl-dhigurah",
+        "slug": "dhigurah",
+        "name_en": "Dhigurah",
+        "name_zh": "迪古拉岛",
+        "atoll_code": "ADh",
+        "atoll_id": "atoll-alif-dhaal",
+        "atoll_name": "Alif Dhaal Atoll (South Ari Atoll)",
+        "is_featured": true,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 24,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 45m direct speedboat or 20m domestic flight + boat (SAMPA Whale Sharks)",
+        "transfer_summary_zh": "直飞内陆机20分钟或快艇1小时45分，SAMPA野生鲸鲨聚集区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-dhangethi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.955,
+          3.6067
+        ]
+      },
+      "properties": {
+        "id": "isl-dhangethi",
+        "slug": "dhangethi",
+        "name_en": "Dhangethi",
+        "name_zh": "丹格迪岛",
+        "atoll_code": "ADh",
+        "atoll_id": "atoll-alif-dhaal",
+        "atoll_name": "Alif Dhaal Atoll (South Ari Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 18,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 30m speedboat or domestic flight to Maamigili",
+        "transfer_summary_zh": "快艇1小时30分或马米吉里内飞"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-mahibadhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9689,
+          3.7572
+        ]
+      },
+      "properties": {
+        "id": "isl-mahibadhoo",
+        "slug": "mahibadhoo",
+        "name_en": "Mahibadhoo (Capital)",
+        "name_zh": "马希巴杜岛（首府）",
+        "atoll_code": "ADh",
+        "atoll_id": "atoll-alif-dhaal",
+        "atoll_name": "Alif Dhaal Atoll (South Ari Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 12,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 20m scheduled speedboat from Malé",
+        "transfer_summary_zh": "马累直达快艇约1小时20分"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-maamigili",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8364,
+          3.4736
+        ]
+      },
+      "properties": {
+        "id": "isl-maamigili",
+        "slug": "maamigili",
+        "name_en": "Maamigili (Airport)",
+        "name_zh": "马米吉里岛（机场）",
+        "atoll_code": "ADh",
+        "atoll_id": "atoll-alif-dhaal",
+        "atoll_name": "Alif Dhaal Atoll (South Ari Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "airport",
+        "guesthouse_count": 14,
+        "hotel_count": 1,
+        "resort_count": 0,
+        "transfer_summary_en": "Villa Airport Maamigili (VAM) – 20 min flight from MLE",
+        "transfer_summary_zh": "自维拉纳机场内飞20分钟直达"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-omadhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9236,
+          3.7889
+        ]
+      },
+      "properties": {
+        "id": "isl-omadhoo",
+        "slug": "omadhoo",
+        "name_en": "Omadhoo",
+        "name_zh": "奥马杜岛",
+        "atoll_code": "ADh",
+        "atoll_id": "atoll-alif-dhaal",
+        "atoll_name": "Alif Dhaal Atoll (South Ari Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 16,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 15m speedboat from Malé (pristine house reef)",
+        "transfer_summary_zh": "马累直达快艇约1小时15分"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-hangnaameedhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9528,
+          3.8472
+        ]
+      },
+      "properties": {
+        "id": "isl-hangnaameedhoo",
+        "slug": "hangnaameedhoo",
+        "name_en": "Hangnaameedhoo",
+        "name_zh": "杭纳米杜岛",
+        "atoll_code": "ADh",
+        "atoll_id": "atoll-alif-dhaal",
+        "atoll_name": "Alif Dhaal Atoll (South Ari Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 14,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 15m speedboat from Malé",
+        "transfer_summary_zh": "马累直达快艇约1小时15分"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-thoddoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.96,
+          4.437
+        ]
+      },
+      "properties": {
+        "id": "isl-thoddoo",
+        "slug": "thoddoo",
+        "name_en": "Thoddoo",
+        "name_zh": "托杜岛",
+        "atoll_code": "AA",
+        "atoll_id": "atoll-alif-alif",
+        "atoll_name": "Alif Alifu Atoll (North Ari Atoll)",
+        "is_featured": true,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 48,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 15m scheduled speedboat from Velana Airport (Watermelon Island)",
+        "transfer_summary_zh": "维拉纳机场快艇75分钟直达，著名农业西瓜岛与双比基尼海滩"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-ukulhas",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8647,
+          4.2144
+        ]
+      },
+      "properties": {
+        "id": "isl-ukulhas",
+        "slug": "ukulhas",
+        "name_en": "Ukulhas",
+        "name_zh": "乌库拉斯岛",
+        "atoll_code": "AA",
+        "atoll_id": "atoll-alif-alif",
+        "atoll_name": "Alif Alifu Atoll (North Ari Atoll)",
+        "is_featured": true,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 36,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "1h speedboat from Velana Airport (Eco-Award Local Island)",
+        "transfer_summary_zh": "维拉纳机场直达快艇60分钟，国家绿色生态示范岛"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-rasdhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9917,
+          4.2625
+        ]
+      },
+      "properties": {
+        "id": "isl-rasdhoo",
+        "slug": "rasdhoo",
+        "name_en": "Rasdhoo (Capital)",
+        "name_zh": "拉斯杜岛（首府）",
+        "atoll_code": "AA",
+        "atoll_id": "atoll-alif-alif",
+        "atoll_name": "Alif Alifu Atoll (North Ari Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 28,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 10m speedboat from Malé (Hammerhead Point dive corridor)",
+        "transfer_summary_zh": "马累直达快艇约70分钟，著名锤头鲨潜水圣地"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-mathiveri",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7933,
+          4.1906
+        ]
+      },
+      "properties": {
+        "id": "isl-mathiveri",
+        "slug": "mathiveri",
+        "name_en": "Mathiveri",
+        "name_zh": "马蒂威利岛",
+        "atoll_code": "AA",
+        "atoll_id": "atoll-alif-alif",
+        "atoll_name": "Alif Alifu Atoll (North Ari Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 16,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 30m speedboat from Malé (Sandbank access)",
+        "transfer_summary_zh": "马累直达快艇约90分钟"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-bodufolhudhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8258,
+          4.1856
+        ]
+      },
+      "properties": {
+        "id": "isl-bodufolhudhoo",
+        "slug": "bodufolhudhoo",
+        "name_en": "Bodufolhudhoo",
+        "name_zh": "博杜福鲁杜岛",
+        "atoll_code": "AA",
+        "atoll_id": "atoll-alif-alif",
+        "atoll_name": "Alif Alifu Atoll (North Ari Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 12,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 20m speedboat from Malé (Eco plastic-free island)",
+        "transfer_summary_zh": "马累快艇80分钟直达"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-feridhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7236,
+          3.9472
+        ]
+      },
+      "properties": {
+        "id": "isl-feridhoo",
+        "slug": "feridhoo",
+        "name_en": "Feridhoo",
+        "name_zh": "费利杜岛",
+        "atoll_code": "AA",
+        "atoll_id": "atoll-alif-alif",
+        "atoll_name": "Alif Alifu Atoll (North Ari Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 10,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 45m speedboat from Malé",
+        "transfer_summary_zh": "马累快艇105分钟"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-fulidhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.415,
+          3.68
+        ]
+      },
+      "properties": {
+        "id": "isl-fulidhoo",
+        "slug": "fulidhoo",
+        "name_en": "Fulidhoo",
+        "name_zh": "富利杜岛",
+        "atoll_code": "V",
+        "atoll_id": "atoll-vaavu",
+        "atoll_name": "Vaavu Atoll (Felidhoo Atoll)",
+        "is_featured": true,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 16,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 10m scheduled speedboat from Velana Airport (Stingray Beach & Nurse Sharks)",
+        "transfer_summary_zh": "维拉纳机场快艇70分钟直达，海滩浅滩野生黄貂鱼与护士鲨潜点"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-thinadhoo-v",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5333,
+          3.4861
+        ]
+      },
+      "properties": {
+        "id": "isl-thinadhoo-v",
+        "slug": "thinadhoo-vaavu",
+        "name_en": "Thinadhoo",
+        "name_zh": "蒂纳杜岛（瓦武）",
+        "atoll_code": "V",
+        "atoll_id": "atoll-vaavu",
+        "atoll_name": "Vaavu Atoll (Felidhoo Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 8,
+        "hotel_count": 1,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 20m speedboat from Malé",
+        "transfer_summary_zh": "马累快艇约80分钟"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-felidhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5486,
+          3.4722
+        ]
+      },
+      "properties": {
+        "id": "isl-felidhoo",
+        "slug": "felidhoo",
+        "name_en": "Felidhoo (Capital)",
+        "name_zh": "费利杜首府岛",
+        "atoll_code": "V",
+        "atoll_id": "atoll-vaavu",
+        "atoll_name": "Vaavu Atoll (Felidhoo Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 6,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 25m speedboat from Malé",
+        "transfer_summary_zh": "马累快艇约85分钟"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-keyodhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5514,
+          3.4611
+        ]
+      },
+      "properties": {
+        "id": "isl-keyodhoo",
+        "slug": "keyodhoo",
+        "name_en": "Keyodhoo",
+        "name_zh": "基约杜岛",
+        "atoll_code": "V",
+        "atoll_id": "atoll-vaavu",
+        "atoll_name": "Vaavu Atoll (Felidhoo Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 9,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 30m speedboat from Malé (Famous sunken shipwreck)",
+        "transfer_summary_zh": "马累快艇90分钟，沉船潜水通道"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-dharavandhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1292,
+          5.1583
+        ]
+      },
+      "properties": {
+        "id": "isl-dharavandhoo",
+        "slug": "dharavandhoo",
+        "name_en": "Dharavandhoo (Airport)",
+        "name_zh": "达拉万杜岛（机场）",
+        "atoll_code": "B",
+        "atoll_id": "atoll-baa",
+        "atoll_name": "Baa Atoll (UNESCO Biosphere Reserve)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "airport",
+        "guesthouse_count": 18,
+        "hotel_count": 1,
+        "resort_count": 0,
+        "transfer_summary_en": "20 min domestic flight from MLE (Hanifaru Bay Manta corridor)",
+        "transfer_summary_zh": "维拉纳机场内飞20分钟直达，哈尼法鲁湾魔鬼鱼通道"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-eydhafushi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0706,
+          5.1036
+        ]
+      },
+      "properties": {
+        "id": "isl-eydhafushi",
+        "slug": "eydhafushi",
+        "name_en": "Eydhafushi (Capital)",
+        "name_zh": "艾达富士岛（首府）",
+        "atoll_code": "B",
+        "atoll_id": "atoll-baa",
+        "atoll_name": "Baa Atoll",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 8,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "20 min domestic flight to Dharavandhoo + 10 min boat",
+        "transfer_summary_zh": "内飞至达拉万杜转乘快艇10分钟"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-fulhadhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9317,
+          4.8856
+        ]
+      },
+      "properties": {
+        "id": "isl-fulhadhoo",
+        "slug": "fulhadhoo",
+        "name_en": "Fulhadhoo",
+        "name_zh": "富拉杜岛",
+        "atoll_code": "B",
+        "atoll_id": "atoll-baa",
+        "atoll_name": "Baa Atoll (Goidhoo Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 6,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "2h scheduled speedboat from Malé (Ranked top 25 global beaches)",
+        "transfer_summary_zh": "马累直达快艇约2小时，全球排名前列的旷世白沙滩"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-fehendhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9692,
+          4.8872
+        ]
+      },
+      "properties": {
+        "id": "isl-fehendhoo",
+        "slug": "fehendhoo",
+        "name_en": "Fehendhoo",
+        "name_zh": "费亨杜岛",
+        "atoll_code": "B",
+        "atoll_id": "atoll-baa",
+        "atoll_name": "Baa Atoll (Goidhoo Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 5,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "2h scheduled speedboat from Malé",
+        "transfer_summary_zh": "马累直达快艇约2小时"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-naifaru",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3653,
+          5.4444
+        ]
+      },
+      "properties": {
+        "id": "isl-naifaru",
+        "slug": "naifaru",
+        "name_en": "Naifaru (Capital)",
+        "name_zh": "奈法鲁岛（首府）",
+        "atoll_code": "Lh",
+        "atoll_id": "atoll-lhaviyani",
+        "atoll_name": "Lhaviyani Atoll (Faadhippolhu)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 8,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "35 min sea plane or 3h express speedboat",
+        "transfer_summary_zh": "水上飞机35分钟或快艇约3小时"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-hinnavaru",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4125,
+          5.4944
+        ]
+      },
+      "properties": {
+        "id": "isl-hinnavaru",
+        "slug": "hinnavaru",
+        "name_en": "Hinnavaru",
+        "name_zh": "欣纳瓦鲁岛",
+        "atoll_code": "Lh",
+        "atoll_id": "atoll-lhaviyani",
+        "atoll_name": "Lhaviyani Atoll",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 6,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "35 min seaplane or transfer via Madivaru airport",
+        "transfer_summary_zh": "马迪瓦鲁机场内飞或水飞直达"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-laamu-gan",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5333,
+          1.9167
+        ]
+      },
+      "properties": {
+        "id": "isl-laamu-gan",
+        "slug": "laamu-gan",
+        "name_en": "Laamu Gan",
+        "name_zh": "拉姆甘岛",
+        "atoll_code": "L",
+        "atoll_id": "atoll-laamu",
+        "atoll_name": "Laamu Atoll (Haddhunmathi Atoll)",
+        "is_featured": true,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 8,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "35m domestic flight to Kadhdhoo Airport (KDO) + 15m scenic link road",
+        "transfer_summary_zh": "维拉纳机场内飞35分钟抵卡杜机场，接驳15分钟跨岛公路直达"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-fonadhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5028,
+          1.8333
+        ]
+      },
+      "properties": {
+        "id": "isl-fonadhoo",
+        "slug": "fonadhoo",
+        "name_en": "Fonadhoo (Capital)",
+        "name_zh": "福纳杜岛（首府）",
+        "atoll_code": "L",
+        "atoll_id": "atoll-laamu",
+        "atoll_name": "Laamu Atoll",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 6,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "Connected directly to Kadhdhoo Airport via causeway",
+        "transfer_summary_zh": "紧邻卡杜机场，公路直连"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-fuvahmulah",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4244,
+          -0.2972
+        ]
+      },
+      "properties": {
+        "id": "isl-fuvahmulah",
+        "slug": "fuvahmulah",
+        "name_en": "Fuvahmulah Island & Airport",
+        "name_zh": "富瓦穆拉岛（虎鲨潜水胜地）",
+        "atoll_code": "Gn",
+        "atoll_id": "atoll-gnaviyani",
+        "atoll_name": "Gnaviyani Atoll (Single Island Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 32,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 10m domestic flight to Fuvahmulah (FVM) – Global Tiger Shark haven",
+        "transfer_summary_zh": "维拉纳机场内飞70分钟直达富瓦穆拉机场，全球唯一的常年深海虎鲨观察地"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-hithadhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0886,
+          -0.6033
+        ]
+      },
+      "properties": {
+        "id": "isl-hithadhoo",
+        "slug": "hithadhoo",
+        "name_en": "Hithadhoo (Addu City)",
+        "name_zh": "希塔杜（阿杜市）",
+        "atoll_code": "S",
+        "atoll_id": "atoll-seenu",
+        "atoll_name": "Seenu Atoll (Addu Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "city",
+        "guesthouse_count": 14,
+        "hotel_count": 1,
+        "resort_count": 0,
+        "transfer_summary_en": "1h 15m domestic/international flight to Gan International Airport (GAN)",
+        "transfer_summary_zh": "飞抵甘岛国际机场，跨越赤道直达"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-gan-seenu",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1556,
+          -0.6931
+        ]
+      },
+      "properties": {
+        "id": "isl-gan-seenu",
+        "slug": "addu-gan",
+        "name_en": "Gan International Airport (Addu)",
+        "name_zh": "甘岛国际机场（阿杜）",
+        "atoll_code": "S",
+        "atoll_id": "atoll-seenu",
+        "atoll_name": "Seenu Atoll (Addu Atoll)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "airport",
+        "guesthouse_count": 4,
+        "hotel_count": 1,
+        "resort_count": 0,
+        "transfer_summary_en": "British Royal Air Force historical heritage & international gateway",
+        "transfer_summary_zh": "南部国际口岸，二战英军历史遗迹"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-dhidhdhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1147,
+          6.8878
+        ]
+      },
+      "properties": {
+        "id": "isl-dhidhdhoo",
+        "slug": "dhidhdhoo",
+        "name_en": "Dhidhdhoo (Capital)",
+        "name_zh": "迪德胡首府岛",
+        "atoll_code": "HA",
+        "atoll_id": "atoll-haa-alifu",
+        "atoll_name": "Haa Alifu Atoll",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 6,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "Flight to Hanimaadhoo + 20 min speedboat",
+        "transfer_summary_zh": "内飞至哈尼马杜转乘20分钟快艇"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-kelaa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2167,
+          6.9583
+        ]
+      },
+      "properties": {
+        "id": "isl-kelaa",
+        "slug": "kelaa",
+        "name_en": "Kelaa",
+        "name_zh": "凯拉岛",
+        "atoll_code": "HA",
+        "atoll_id": "atoll-haa-alifu",
+        "atoll_name": "Haa Alifu Atoll",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 6,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "Flight to Hanimaadhoo + 25 min speedboat (French Lagoon)",
+        "transfer_summary_zh": "内飞至哈尼马杜转乘25分钟快艇"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-hanimaadhoo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1742,
+          6.7628
+        ]
+      },
+      "properties": {
+        "id": "isl-hanimaadhoo",
+        "slug": "hanimaadhoo",
+        "name_en": "Hanimaadhoo International",
+        "name_zh": "哈尼马杜国际机场岛",
+        "atoll_code": "HDh",
+        "atoll_id": "atoll-haa-dhaalu",
+        "atoll_name": "Haa Dhaalu Atoll",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "airport",
+        "guesthouse_count": 7,
+        "hotel_count": 1,
+        "resort_count": 0,
+        "transfer_summary_en": "45 min domestic flight from Velana Airport (MLE)",
+        "transfer_summary_zh": "维拉纳机场内飞45分钟直达"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-kulhudhuffushi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.07,
+          6.6222
+        ]
+      },
+      "properties": {
+        "id": "isl-kulhudhuffushi",
+        "slug": "kulhudhuffushi",
+        "name_en": "Kulhudhuffushi City",
+        "name_zh": "库尔胡杜富士市",
+        "atoll_code": "HDh",
+        "atoll_id": "atoll-haa-dhaalu",
+        "atoll_name": "Haa Dhaalu Atoll",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "city",
+        "guesthouse_count": 6,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "Commercial hub of the north with Kulhudhuffushi Airport (HDK)",
+        "transfer_summary_zh": "北部经济与医疗中心，设支线机场"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-villingili-ga",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4333,
+          0.7569
+        ]
+      },
+      "properties": {
+        "id": "isl-villingili-ga",
+        "slug": "villingili-ga",
+        "name_en": "Villingili (Capital)",
+        "name_zh": "维灵吉利首府岛",
+        "atoll_code": "GA",
+        "atoll_id": "atoll-gaafu-alifu",
+        "atoll_name": "Gaafu Alifu Atoll (North Huvadhoo)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "inhabited",
+        "guesthouse_count": 6,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "Domestic flight to Kooddoo Airport (GKK) + 5 min speedboat",
+        "transfer_summary_zh": "内飞至库杜机场转乘快艇5分钟"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "isl-thinadhoo-gdh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9983,
+          0.5333
+        ]
+      },
+      "properties": {
+        "id": "isl-thinadhoo-gdh",
+        "slug": "thinadhoo-gdh",
+        "name_en": "Thinadhoo City",
+        "name_zh": "蒂纳杜市（南胡瓦杜）",
+        "atoll_code": "GDh",
+        "atoll_id": "atoll-gaafu-dhaalu",
+        "atoll_name": "Gaafu Dhaalu Atoll (South Huvadhoo)",
+        "is_featured": false,
+        "has_accommodation": true,
+        "island_type": "city",
+        "guesthouse_count": 7,
+        "hotel_count": 0,
+        "resort_count": 0,
+        "transfer_summary_en": "Flight to Kaadedhdhoo (KDM) or Maavarulu + 10 min boat",
+        "transfer_summary_zh": "内飞至卡德杜机场转乘快艇10分钟"
+      }
+    }
+  ]
+}

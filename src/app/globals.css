@@ -1,0 +1,95 @@
+@import "tailwindcss";
+
+:root {
+  --font-jakarta: "Plus Jakarta Sans";
+  --font-outfit: "Outfit";
+  --color-orange: #F47732;
+  --color-orange-hover: #E0631E;
+  --color-orange-subtle: #FFF4ED;
+  --color-ocean: #0D2E3D;
+  --color-ocean-deep: #071C26;
+  --color-aqua: #EDF6F6;
+  --color-aqua-border: #D5E8E8;
+  --color-canvas: #FAFBFD;
+  --color-surface: #FFFFFF;
+  --color-charcoal: #182226;
+  --color-charcoal-muted: #5A6970;
+  --color-border: #E6ECEF;
+}
+
+@layer base {
+  html {
+    background-color: var(--color-canvas);
+    color: var(--color-charcoal);
+    font-family: var(--font-jakarta), "Plus Jakarta Sans", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", -apple-system, BlinkMacSystemFont, sans-serif;
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    background-color: var(--color-canvas);
+    color: var(--color-charcoal);
+    line-height: 1.65;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-outfit), var(--font-jakarta), "PingFang SC", "Microsoft YaHei", sans-serif;
+    letter-spacing: -0.025em;
+    line-height: 1.15;
+    color: var(--color-ocean);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-orange);
+    outline-offset: 3px;
+  }
+}
+
+/* Hide scrollbars on sleek horizontal carousels while keeping scroll functionality */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Fluid animations */
+@keyframes kenBurnsSlow {
+  0% {
+    transform: scale(1.06);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.animate-ken-burns {
+  animation: kenBurnsSlow 8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes progressFill {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+.animate-progress-bar {
+  animation: progressFill 6s linear forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
